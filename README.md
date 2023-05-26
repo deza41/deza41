@@ -9,13 +9,7 @@
 ---
  :boom: Languales and Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,react)
-
----
-:soccer: Socials
-
----
-:muscle: See my public projects
+![My Skills](https://skills.thijs.gg/icons?i=py,kubernetes,react,azure,aws,github,css,js,nodejs,ts,html,fastapi,figma,graphql,postgres,tailwind,threejs,arduino)
 
 ---
 :muscle: See my Github stats
