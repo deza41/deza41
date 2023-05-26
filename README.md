@@ -9,7 +9,7 @@
 ---
  :boom: Languales and Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,angular)
+![My Skills](https://skills.thijs.gg/icons?i=py,idea,kubernetes,git,postgres,scala,js,html,docker,react)
 
 ---
 :soccer: Socials
