@@ -15,3 +15,5 @@
 :muscle: See my Github stats
 
 ![Deza41's GitHub stats](https://github-readme-stats.vercel.app/api?username=deza41&count_private=true&theme=dark)
+
+[![Deza41's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?deza41=Harlok)](https://github.com/deza41/github-readme-stats)
