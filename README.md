@@ -9,7 +9,7 @@
 ---
  :boom: Languales and Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=py,kubernetes,react,azure,aws,github,css,js,nodejs,ts,html,fastapi,figma,graphql,postgres,tailwind,threejs,arduino)
+![My Skills](https://skills.thijs.gg/icons?i=py,kubernetes,react,azure,aws,github,java,css,js,nodejs,ts,html,fastapi,figma,graphql,postgres,tailwind,materialui,threejs,arduino,linux,netlify,heroku,grafana,wordpress)
 
 ---
 :muscle: See my Github stats
