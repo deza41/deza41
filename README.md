@@ -16,4 +16,4 @@
 
 ![Deza41's GitHub stats](https://github-readme-stats.vercel.app/api?username=deza41&count_private=true&theme=dark)
 
-![Deza41's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deza41)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deza41&layout=compact&theme=dark)
