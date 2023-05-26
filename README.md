@@ -10,7 +10,8 @@
  :boom: Languales and Tools
 
 ![My Skills](https://skills.thijs.gg/icons?i=py,kubernetes,react,azure,aws,github,java,css,js,nodejs,ts,html,fastapi,figma,graphql,postgres,tailwind,materialui,threejs,arduino,linux,netlify,heroku,grafana,wordpress,pytorch)
-
+---
+![trophy](https://github-profile-trophy.vercel.app/?username=deza41&theme=onedark&row=1)
 ---
 :muscle: See my Github stats
 
