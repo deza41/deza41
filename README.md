@@ -20,4 +20,4 @@
 ---
 :muscle: See my Github stats
 
-[![moisesosorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=deza41&count_private=true&show_icons=true&theme=transparent)](https://github.com/deza41/github-readme-stats)
+[![deza41's GitHub stats](https://github-readme-stats.vercel.app/api?username=deza41&count_private=true&show_icons=true&theme=transparent)](https://github.com/deza41/github-readme-stats)
