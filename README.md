@@ -15,6 +15,6 @@
 ---
 :muscle: See my Github stats
 
-![Deza41's GitHub stats](https://github-readme-stats.vercel.app/api?username=deza41&count_private=true&theme=dark)
+![Deza41's GitHub stats](https://github-readme-stats.vercel.app/api?username=deza41&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deza41&layout=compact&theme=dark)
