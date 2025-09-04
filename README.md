@@ -11,8 +11,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,kubernetes,react,azure,aws,github,java,css,js,nodejs,ts,html,fastapi,figma,graphql,postgres,tailwind,materialui,threejs,arduino,linux,netlify,heroku,grafana,wordpress,pytorch,nextjs,npm,postman,raspberrypi,redis,redux,supabase,vscode,cloudflare)
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=rchapman-aus&theme=onedark&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=deza41&theme=onedark&row=1)
 ---
 :muscle: See my Github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchapman-aus&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deza41&layout=compact&theme=dark)
